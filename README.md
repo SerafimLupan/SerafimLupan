@@ -39,8 +39,13 @@ A security-focused engineer dedicated to identifying vulnerabilities and archite
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SerafimLupan&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerafimLupan&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f" alt="Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SerafimLupan&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=0d1117" alt="Stats" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerafimLupan&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=9f9f9f&bg_color=0d1117" alt="Langs" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerafimLupan&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=9f9f9f" alt="Streak" />
 </p>
 
 ---
