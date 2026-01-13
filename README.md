@@ -2,12 +2,12 @@
   <br />
   <br />
   <h1>Serafim Lupan</h1>
-  <p>Software Engineer • Cybersecurity Enthusiast • Minimalist</p>
+  <p>Security Researcher • PenTest • Network Infrastructure</p>
   
   <p>
     <a href="https://serafimlupan.com">Website</a> &nbsp; | &nbsp; 
     <a href="https://linkedin.com/in/serafimlupan">LinkedIn</a> &nbsp; | &nbsp; 
-    <a href="mailto:contact@serafimlupan.com">Contact</a>
+    <a href="mailto:root@serafimlupan.com">root@serafimlupan.com</a>
   </p>
   <br />
 </div>
@@ -15,27 +15,27 @@
 ---
 
 ### 01 . Protocol
-A developer focused on building secure, efficient, and aesthetically clean digital experiences. My work is guided by the principle that "less is more," both in UI design and code architecture.
+A security-focused engineer dedicated to identifying vulnerabilities and architecting resilient network infrastructures. I believe in the "Security by Design" principle and minimalist implementation.
 
-- **Current focus:** Full-stack development & CyberSec research.
-- **Philosophy:** Building systems that are as secure as they are simple.
-- **Stack:** TypeScript, Next.js, Node.js, and a suite of security tools.
+- **Specialization:** Penetration Testing (Web/Network) & Infrastructure Hardening.
+- **Current Research:** Analyzing attack vectors in modern networking protocols.
+- **Philosophy:** Understanding the exploit to build the defense.
 
 ---
 
-### 02 . Technology Stack
-*Curated tools for high-performance development.*
+### 02 . Technical Arsenal
+*Tools and environments for testing and development.*
 
-| Layer | Tools |
+| Domain | Tech / Tools |
 | :--- | :--- |
-| **Frontend** | React, Next.js, Tailwind CSS, Framer Motion |
-| **Backend** | Node.js, Express, PostgreSQL, Prisma |
-| **Security** | Kali Linux, Burp Suite, Nmap, Wireshark |
-| **Workflow** | Git, Docker, Linux (Arch/Debian), CI/CD |
+| **Cybersecurity** | Kali Linux, Burp Suite, Nmap, Metasploit, Wireshark |
+| **Networking** | TCP/IP, VPNs, Firewalls (pfSense/IPTables), DNS Security |
+| **Development** | Python (Scripting), Node.js, Bash, Go |
+| **Infrastructure** | Docker, Linux (Arch/Debian), SSH, Cloud Security |
 
 ---
 
-### 03 . Analytics
+### 03 . System Metrics
 <br />
 
 <p align="center">
@@ -56,5 +56,5 @@ A developer focused on building secure, efficient, and aesthetically clean digit
 <br />
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=SerafimLupan&color=ffffff&style=flat-square&label=TRAFFIC" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SerafimLupan&color=ffffff&style=flat-square&label=ACCESS_LOGS" alt="Profile Views" />
 </p>
