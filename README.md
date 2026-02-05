@@ -30,7 +30,7 @@ A security-focused engineer dedicated to identifying vulnerabilities and archite
 | :--- | :--- |
 | **Cybersecurity** | Kali Linux, Burp Suite, Nmap, Metasploit, Wireshark |
 | **Networking** | TCP/IP, VPNs, Firewalls (pfSense/IPTables), DNS Security |
-| **Development** | Python (Scripting), Node.js, Bash, Go |
+| **Development** | Python (Scripting), TypeScript, Bash, C++ |
 | **Infrastructure** | Docker, Linux (Arch/Debian), SSH, Cloud Security |
 
 ---
