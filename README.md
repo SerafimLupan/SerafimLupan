@@ -45,7 +45,7 @@ A security-focused engineer dedicated to identifying vulnerabilities and archite
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerafimLupan&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=9f9f9f" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SerafimLupan&theme=dark&border_radius=4.3&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
