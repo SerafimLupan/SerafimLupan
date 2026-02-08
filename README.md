@@ -39,10 +39,13 @@ A security-focused engineer dedicated to identifying vulnerabilities and archite
 <br />
 
 <p align="center">
-  <img src="github_stats.svg" alt="GitHub Stats" height="150" />
-  &nbsp;&nbsp;
+  <img src="github_stats.svg" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerafimLupan&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=9f9f9f&bg_color=0d1117" alt="Top Languages" height="150" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SerafimLupan&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
