@@ -43,10 +43,7 @@ A security-focused engineer dedicated to identifying vulnerabilities and archite
 </p>
 
 <p align="center">
-  <!-- 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerafimLupan&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=9f9f9f&bg_color=0d1117" alt="Top Languages" height="150" />
-  -->
-  [![SerafimLupan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerafimLupan)](https://github.com/SerafimLupan/github-readme-stats)
 </p>
 
 
