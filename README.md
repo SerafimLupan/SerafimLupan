@@ -39,7 +39,7 @@ A security-focused engineer dedicated to identifying vulnerabilities and archite
 <br />
 
 <p align="center">
-  <img src="github_stats.svg" alt="GitHub Stats"/>
+  <img src="github-metrics.svg" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
