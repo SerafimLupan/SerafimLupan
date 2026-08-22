@@ -42,9 +42,7 @@ A security-focused engineer dedicated to identifying vulnerabilities and archite
   <img src="github-metrics.svg" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SerafimLupan&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
+
 
 ---
 
